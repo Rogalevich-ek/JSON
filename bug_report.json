@@ -5,7 +5,7 @@
   "Component": "Job List",
   "Severity": "Major",
   "Description": "The Cancel button doesn't clear entered value in the field on the Job List page",
-  "Steps": "{
+  "Steps": {
   "1": "Open the Job List page",
   "2": "Enter a values in the fields",
   "3": "Click the Cancel button"
