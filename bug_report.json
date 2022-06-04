@@ -1,1 +1,15 @@
-
+{
+  "Summary": "The Cancel button doesn't clear entered value",
+  "Priority": "Medium",
+  "Fix Version": "Stabilization",
+  "Component": "Job List",
+  "Severity": "Major",
+  "Description": "The Cancel button doesn't clear entered value in the field on the Job List page",
+  "Steps": "{
+  "1": "Open the Job List page",
+  "2": "Enter a values in the fields",
+  "3": "Click the Cancel button"
+}
+"Actual result": "Entered values not cleared",
+"Exprcted result": "Entered values cleared"
+}
