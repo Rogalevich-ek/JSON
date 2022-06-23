@@ -1,5 +1,5 @@
 {
-"skills": [
+"skills": 
 {
 "lesson1": "terminal",
 "lesson2": "git",
@@ -9,6 +9,5 @@
 "lesson6": "Charles",
 "lesson7": "Mobile testing"
 }
-]
 "interview": 2
 }
